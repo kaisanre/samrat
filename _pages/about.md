@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /samrat/about/
 ---
 
 Sidey is a simple and minimalistic jekyll blogging theme.
