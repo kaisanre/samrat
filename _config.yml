@@ -1,5 +1,5 @@
 site: Sidey
-url: #yoururl
+url: https://kaisanre.github.io/samrat/
 title: Sidey
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "/samrat/"
 
 highlighter: none
 
